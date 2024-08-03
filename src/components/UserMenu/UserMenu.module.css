@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.username {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  gap: 20px;
+}
+
+.button {
+  max-width: 137px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+}
